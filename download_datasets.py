@@ -27,7 +27,7 @@ snapshot_download(
 )
 
 snapshot_download(
-    repo_id="fancyzhx/SetFit/bbc-news",
+    repo_id="SetFit/bbc-news",
     repo_type="dataset",
     local_dir="./raw/bbc_news",
     cache_dir="./cache/",
